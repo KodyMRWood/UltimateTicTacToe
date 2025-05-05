@@ -1,0 +1,27 @@
+Ultimate TikTacToe Todo:
+
+Board parent class that can be derived by the smaller and bigger boards
+- Accepts input
+- Grid check for win?
+Write a function that prints a board
+Write a function that prints a big board with smaller boards (from prior task) in it
+Write a function that accepts inputs from a player
+- Inputs have to be valid coordinates of board placement
+
+Game logic
+Each small board needs a win condition (three in a row horizontal, vertical or diagonal)
+if a board is just won
+- next set of coordinates will be the grid that will be played next
+-- Make sure coordinate valid
+
+
+
+
+---------------------
+
+
+x|x|x|
+-----|
+x|x|x|
+-----|
+x|x|x|
