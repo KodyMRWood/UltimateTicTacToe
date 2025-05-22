@@ -4,21 +4,25 @@
 
 void GameStateMainMenu::OnStateBegin()
 {
-
+	std::cout << "Main Menu" << std::endl;
+	nextGameState = new GameStatePlayerSelect();
 }
 void GameStateMainMenu::OnStateEnd()
 {
 }
-bool GameStateMainMenu::UpdateState(Player* player)
+bool GameStateMainMenu::UpdateState(std::string input, std::vector<Player>& players, int playerTurn, BoardManager& boardManager, BaseState*& currentState)
 {
-	std::string input;
 	std::cin >> input;
 
-	if (input == "a")
+	if (!BaseState::UpdateState(input, players, playerTurn, boardManager, currentState))
 	{
-		//currentGameState = Game::INGAME;
-		std::cout << "Main Menu";
+		return false;
+	}
 
+	if (input == "play")
+	{
+		currentState = nextGameState;
+		currentState->OnStateBegin();
 	}
 	return true;
 }

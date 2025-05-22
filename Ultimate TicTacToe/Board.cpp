@@ -29,7 +29,12 @@ char Board::GetSlotValue(int x, int y)
 	return boardSlots[x][y];
 }
 
-void Board::AddPlayerSelection(std::vector<int> selectCoord, int playerID)
+bool Board::GetIsBoardWon()
 {
-	return;
+	return isWon;
+}
+
+void Board::AddPlayerSelection(std::vector<int> selectCoord, char playerID)
+{
+	boardSlots[selectCoord[0]][selectCoord[1]] = playerID;
 }

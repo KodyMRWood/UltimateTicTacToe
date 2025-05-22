@@ -11,9 +11,10 @@
 #include <iostream>
 
 #include "Player.h"
+#include "BaseState.h"
 #include "BoardManager.h"
-#include "GameStatePlayerSelect.h"
 #include "GameStateMainMenu.h"
+#include "GameStatePlayerSelect.h"
 
 class Game
 {
@@ -32,16 +33,21 @@ public:
 
 
 	BaseState GetGameState();
-	void SetGameState( BaseState newState);
+	void SetGameState(BaseState newState);
 	void Update();
-	BoardManager GetBoardManager();
 	bool GetIsGamePlaying();
+
+	// Board Methods
+	BoardManager GetBoardManager();
+
+	// Player Methods
+	std::vector<Player> GetPlayers();
 
 private:
 
 	BaseState* currentGameState;
 	std::vector<Player> players;
-	BoardManager boardManager;
+	BoardManager* boardManager;
 	bool isGamePlaying = true;
 
 };

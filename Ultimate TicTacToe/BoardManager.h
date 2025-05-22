@@ -13,6 +13,15 @@ public:
 	~BoardManager();
 
 	void PrintBoard();
+
+	std::vector<int> GetCurrentBigBoardCoord();
+
+	void CurrentBigBoardCoord(std::vector<int> newCoord);
+
+	bool HasBoardWon(std::vector<int> coord);
+
+	void AddPlayerSelection(std::vector<int> selectBigGridCoord ,std::vector<int> selectSmallGridCoord, char playerID);
+
 protected:
 	// Variables
 
@@ -24,6 +33,10 @@ private:
 
 	Board m_BoardArray[3][3];
 
+	std::vector<int> currentBigBoardCoord;
+
+	
 	// Functions
+	
 
 };

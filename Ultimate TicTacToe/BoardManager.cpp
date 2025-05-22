@@ -20,7 +20,7 @@ BoardManager::~BoardManager()
 
 void BoardManager::PrintBoard()
 {
-	std::string output = "";
+	std::string output = "\t\t";
 	for (int row = 0; row < boardRows; ++row)
 	{
 		for (int col = 0; col < boardCols; ++col)
@@ -39,12 +39,33 @@ void BoardManager::PrintBoard()
 					output += " | ";
 				}
 			}
-			output += "\n";
+			output += "\n\t\t";
 		}
 		if (row != 2)
 		{
-			output += "---------------\n";
+			output += "---------------\n\t\t";
 		}
 	}
 	std::cout << output << std::endl;
+}
+
+std::vector<int> BoardManager::GetCurrentBigBoardCoord()
+{
+	return currentBigBoardCoord;
+}
+
+void BoardManager::CurrentBigBoardCoord(std::vector<int> newCoord)
+{
+	currentBigBoardCoord = newCoord;
+}
+
+bool BoardManager::HasBoardWon(std::vector<int> coord)
+{
+	return m_BoardArray[coord[0], coord[1]]->GetIsBoardWon();
+}
+
+void BoardManager::AddPlayerSelection(std::vector<int> selectBigGridCoord, std::vector<int> selectSmallGridCoord, char playerID)
+{
+	m_BoardArray[selectBigGridCoord[0]][selectBigGridCoord[1]]
+		.AddPlayerSelection(selectSmallGridCoord, playerID);
 }

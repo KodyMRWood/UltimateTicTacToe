@@ -4,12 +4,14 @@ Game::Game()
 {
 	// Default Constructor
 	players.push_back(Player(1));
-	Player playerTwo(2);
-	players.push_back(playerTwo);
+	players.push_back(Player(2));
 	isGamePlaying = true;
 
 	GameStateMainMenu* mainMenuState = new GameStateMainMenu();
 	currentGameState = mainMenuState;
+	currentGameState->OnStateBegin();
+
+	boardManager = new BoardManager();
 	
 }
 
@@ -21,7 +23,7 @@ Game::~Game()
 
 BaseState Game::GetGameState()
 {
-	return BaseState();
+	return *currentGameState;
 }
 
 void Game::SetGameState( BaseState newState)
@@ -31,56 +33,24 @@ void Game::SetGameState( BaseState newState)
 
 void Game::Update()
 {
-	if (!players.empty() && currentGameState != nullptr)
+	if (!players.empty())
 	{
-		isGamePlaying = currentGameState->UpdateState(&players[0]);
+		isGamePlaying = currentGameState->UpdateState("", players,1, *boardManager, currentGameState);
 	}
-	//switch (currentGameState)
-	//{
-	//case Game::MAINMENU:
-	//	if (input == "a")
-	//	{
-	//		currentGameState = Game::INGAME;
-	//		std::cout << currentGameState;
-	//	}
-	//	break;
-	//case Game::PLAYERSELECT:
-	//
-	//	if (input == "x")
-	//	{
-	//	
-	//	}
-	//	if (input == "o")
-	//	{
-	//
-	//	}
-	//	break;
-	//case Game::INGAME:
-	//	if (input == "p")
-	//	{
-	//		boardManager.PrintBoard();
-	//	}
-	//	break;
-	//case Game::POSTGAME:
-	//	if (input == "r")
-	//	{
-	//		//replay
-	//	}
-	//	break;
-	//case Game::DEFAULT:
-	//	break;
-	//default:
-	//	break;
-	//}
 }
 
 BoardManager Game::GetBoardManager()
 {
-	return boardManager;
+	return *boardManager;
 }
 
 bool Game::GetIsGamePlaying()
 {
 	return isGamePlaying;
+}
+
+std::vector<Player> Game::GetPlayers()
+{
+	return players;
 }
 

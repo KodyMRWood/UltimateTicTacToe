@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repo Folder 2\\UltimateTicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStateInGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\GameStateInGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStatePlayerSelect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\GameStatePlayerSelect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStateMainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\GameStateMainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStateInGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\GameStateInGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStatePlayerSelect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\GameStatePlayerSelect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\BaseState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\BaseState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStateMainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\GameStateMainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\BaseState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\BaseState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\BoardManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\BoardManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\BoardManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\BoardManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8EF335-71DC-4AF7-9DBB-8859F2C4B859}|Ultimate TicTacToe\\Ultimate TicTacToe.vcxproj|solutionrelative:Ultimate TicTacToe\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseState.h",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\BaseState.h",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\BaseState.h",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\BaseState.h",
+              "RelativeToolTip": "Ultimate TicTacToe\\BaseState.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T15:01:57.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameStateMainMenu.h",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStateMainMenu.h",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\GameStateMainMenu.h",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStateMainMenu.h",
+              "RelativeToolTip": "Ultimate TicTacToe\\GameStateMainMenu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T15:02:35.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameStatePlayerSelect.h",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStatePlayerSelect.h",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\GameStatePlayerSelect.h",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStatePlayerSelect.h",
+              "RelativeToolTip": "Ultimate TicTacToe\\GameStatePlayerSelect.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T15:01:16.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameStateInGame.h",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStateInGame.h",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\GameStateInGame.h",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStateInGame.h",
+              "RelativeToolTip": "Ultimate TicTacToe\\GameStateInGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T13:30:23.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Player.h",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\Player.h",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Player.h",
+              "RelativeToolTip": "Ultimate TicTacToe\\Player.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-08T17:29:06.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Game.h",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\Game.h",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Game.h",
+              "RelativeToolTip": "Ultimate TicTacToe\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-08T17:36:48.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoardManager.h",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\BoardManager.h",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\BoardManager.h",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\BoardManager.h",
+              "RelativeToolTip": "Ultimate TicTacToe\\BoardManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-12T16:39:10.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Board.h",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Board.h",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\Board.h",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Board.h",
+              "RelativeToolTip": "Ultimate TicTacToe\\Board.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T13:33:22.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameStateInGame.cpp",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStateInGame.cpp",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\GameStateInGame.cpp",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStateInGame.cpp",
+              "RelativeToolTip": "Ultimate TicTacToe\\GameStateInGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T13:26:44.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Game.cpp",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\Game.cpp",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Game.cpp",
+              "RelativeToolTip": "Ultimate TicTacToe\\Game.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vyUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T15:01:43.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BoardManager.cpp",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\BoardManager.cpp",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\BoardManager.cpp",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\BoardManager.cpp",
+              "RelativeToolTip": "Ultimate TicTacToe\\BoardManager.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAMwC0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T16:39:21.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameStateMainMenu.cpp",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStateMainMenu.cpp",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\GameStateMainMenu.cpp",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStateMainMenu.cpp",
+              "RelativeToolTip": "Ultimate TicTacToe\\GameStateMainMenu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T15:01:28.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\main.cpp",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\main.cpp",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\main.cpp",
+              "RelativeToolTip": "Ultimate TicTacToe\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T14:16:50.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameStatePlayerSelect.cpp",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStatePlayerSelect.cpp",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\GameStatePlayerSelect.cpp",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\GameStatePlayerSelect.cpp",
+              "RelativeToolTip": "Ultimate TicTacToe\\GameStatePlayerSelect.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T15:01:19.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseState.cpp",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\BaseState.cpp",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\BaseState.cpp",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\BaseState.cpp",
+              "RelativeToolTip": "Ultimate TicTacToe\\BaseState.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T15:02:25.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Player.cpp",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\Player.cpp",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Player.cpp",
+              "RelativeToolTip": "Ultimate TicTacToe\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T17:29:05.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Board.cpp",
+              "RelativeDocumentMoniker": "Ultimate TicTacToe\\Board.cpp",
+              "ToolTip": "C:\\Repo Folder 2\\UltimateTicTacToe\\Ultimate TicTacToe\\Board.cpp",
+              "RelativeToolTip": "Ultimate TicTacToe\\Board.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwCYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T13:33:57.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -22,6 +22,8 @@ public:
 
 	// Functions
 	char GetSlotValue(int x, int y);
+	bool GetIsBoardWon();
+	void AddPlayerSelection(std::vector<int> selectCoord, char playerID);
 
 protected:
 
@@ -29,13 +31,14 @@ protected:
 	char boardSlots[3][3];
 
 	// Functions
-	void virtual AddPlayerSelection(std::vector<int> selectCoord, int playerID);
+	
 
 private:
 
 	// Variables
 	int boardRows = 3;
 	int boardCols = 3;
+	bool isWon = false;
 
 	// Functions 
 };

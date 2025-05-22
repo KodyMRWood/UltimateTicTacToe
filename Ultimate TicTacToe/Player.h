@@ -7,6 +7,8 @@
 /// 
 /// Written: April 2025
 
+#include <iostream>
+
 class Player
 {
 public:
@@ -15,8 +17,12 @@ public:
 
 	int GetPlayerID() const;
 
+	char GetPlayerLetter() const;
+	void SetPlayerLetter(char letter);
+
 protected:
 
 private:
 	int playerID;
+	char playerLetter;
 };
